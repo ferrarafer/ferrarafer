@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I'm Fernando Ferrara!
+
+A Software Engineer curious about new technologies and devocated to learn continuously.
 
 <!--
 **ferrarafer/ferrarafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
